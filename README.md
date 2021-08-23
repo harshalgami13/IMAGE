@@ -24,3 +24,9 @@ iTab ( i ) => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/mai
 iTab ( ii )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/itab.1.1.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/itab.1.1.png</a>
 
 iWatch => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/watch.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/watch.png</a>
+
+apple music logo => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.music.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.music.png</a>
+
+apple watch logo => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.watch.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.watch.png</a>
+
+apple tv logo => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.tv.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.tv.png</a>
