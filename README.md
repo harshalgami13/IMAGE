@@ -15,7 +15,9 @@ iMac => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stoc
 
 iPhone 12 pro ( i )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.0.png</a>
 
-iPhone 12 pro ( ii )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.0.png</a>
+iPhone 12 pro ( ii )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.1.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.1.png</a>
+
+iPhone 12 pro ( iii )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.0.png</a>
 
 iPhone 12 pro ( iii )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.1.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.2.1.png</a>
 
