@@ -9,9 +9,13 @@ Ad.1 => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stoc
 
 Air Tag => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/air.tag.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/air.tag.png</a>
 
-Apple Product => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.png</a>
+Apple Product => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.1.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.1.0.png</a>
+
+Apple Product ( i )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.1.2.jpg">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/apple.product.1.2.jpg</a>
 
 iMac => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iMac.2.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iMac.2.0.png</a>
+
+iMac ( i ) => <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iMac.2.1.jpg">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iMac.2.1.jpg</a>
 
 iPhone 12 pro ( i )=> <a href="https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.0.png">https://raw.githubusercontent.com/harshalgami13/IMAGE/main/Stock%20Images/iphone12pro.1.0.png</a>
 
